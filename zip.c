@@ -1,4 +1,4 @@
-// Printing frequency of each character just before it's consecutive occurences
+// Printing frequency of each character just before its consecutive occurrences
 #include <stdio.h>
 
 int main()
